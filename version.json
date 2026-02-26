@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "files": [
     "geet/Geet (1).txt",
     "geet/Geet (10).txt",
@@ -103,6 +103,8 @@
     "geet/geet_2.txt",
     "geet/geet_3.txt",
     "geet/geet_index.json",
+    "prayers/lords_prayer.txt",
+    "prayers/apostles_creed.txt",
     "singers/manzoor/manzoor.png",
     "singers/manzoor/manzoor_index.json",
     "singers/patras/patras.png",
