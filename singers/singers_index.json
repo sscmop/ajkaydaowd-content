@@ -1,0 +1,5 @@
+[
+  { "id": "patras", "title": "پطرس", "subtitle": "پطرس کے گیت", "folder": "patras", "index": "patras_index.json", "icon": "patras.png" },
+  { "id": "manzoor", "title": "منزور", "subtitle": "بیریٹون • اسلام آباد","folder": "manzoor", "index": "manzoor_index.json","icon": "manzoor.png"},
+  { "id": "sarfrazGill", "title": "سرفراز گل", "subtitle": "بیریٹون • اسلام آباد","folder": "sarfrazGill", "index": "sarfrazGill_index.json","icon": "sarfrazGill.png"}
+]
